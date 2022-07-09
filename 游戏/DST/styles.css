@@ -1,0 +1,63 @@
+/*全局值*/
+body {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: #555;
+  }
+
+
+/*
+ * 博客的名称和描述
+ */
+
+ .blog-header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .blog-title {
+    margin-top: 30px;
+    margin-bottom: 0;
+    font-size: 60px;
+    font-weight: 400;
+  }
+  .blog-description {
+    font-size: 20px;
+    color: #999;
+  }
+  
+  
+  /*
+   * Main column and sidebar layout
+   */
+  
+  .blog-main {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+
+
+/*
+ * Footer
+ */
+
+ .blog-footer {
+    padding: 40px 0;
+    color: #999;
+    text-align: center;
+    background-color: #f9f9f9;
+    border-top: 1px solid #e5e5e5;
+  }
+  .blog-footer p:last-child {
+    margin-bottom: 0;
+  }
+
+p{
+    font-size: 17px;
+}
+
+img{
+    position:relative;
+    left:15%;
+    margin-left: -100PX;
+    width: 700px;
+    height: 450px;
+}

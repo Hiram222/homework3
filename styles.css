@@ -1,0 +1,29 @@
+.jumbotron{
+    background-color: skyblue;
+    text-align: center;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.jumbotron .btn {
+  padding: 14px 24px;
+  font-size: 21px;
+}
+
+.bodyStyle{
+    background-image: url(tgbackground2.jpg);
+}
+
+.img{
+    width: 270px;
+    height: 180px;
+    overflow: hidden;    
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    border-top: 1px solid #e8e8e8;
+    max-width: 925px;
+    margin: 10px auto 0;
+    padding: 28px 0 34px;
+}
